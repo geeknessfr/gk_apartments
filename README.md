@@ -9,10 +9,9 @@ You have to setup other appartments.
 
 ### INSTALLATION
 
-1. Copy gk_appartements in your ressources folder.
-2. Add gk_appartements to your autostart ressources in citmp-server.yml file.
-
-3. You can edit appartements.lua file to add many positions to appartments following this format :
+* Copy gk_appartements in your ressources folder.
+* Add gk_appartements to your autostart ressources in citmp-server.yml file.
+* You can edit appartements.lua file to add many positions to appartments following this format :
 
 
 ```LUA
@@ -41,6 +40,8 @@ appartements = {
 
 If there is **more than one floor**, a menu will show to chosse which floor you want to teleport to,
 and if only one floor, you'll be teleported directly to appartment.
+
+**You Don't Need to Edit Menu. It will automatically take names from 'name' fields.**
 
 ![Outside1](http://i.imgur.com/CTnD9ZH.jpg)
 ![Outside2](http://i.imgur.com/lAzczA2.jpg)
