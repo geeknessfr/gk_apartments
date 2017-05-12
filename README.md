@@ -9,10 +9,10 @@ You have to setup other appartments.
 
 ### INSTALLATION
 
-1. Copy gk_appartments in your ressources folder.
-2. Add gk_appartments to your autostart ressources in citmp-server.yml file.
+1. Copy gk_appartements in your ressources folder.
+2. Add gk_appartements to your autostart ressources in citmp-server.yml file.
 
-3. You can edit appartments.lua file to add many positions to appartments following this format :
+3. You can edit appartements.lua file to add many positions to appartments following this format :
 
 
 ```LUA
