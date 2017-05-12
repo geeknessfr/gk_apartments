@@ -27,16 +27,13 @@ appartements = {
 }
 ```
 
-**name** : Names will appear on the bottom right of the screen after teleport.
-
-**x, y, z** : Positions for teleporter markers.
-
-**h** : Heading direction of your player.
+* **name** : Names will appear on the bottom right of the screen after teleport.
+* **x, y, z** : Positions for teleporter markers.
+* **h** : Heading direction of your player.
 
 
-**ext** : Outstide position for marker
-
-**appts** ! Floors Marker position. One line by floor.
+* **ext** : Outstide position for marker
+* **appts** : Floors Marker position. One line by floor.
 
 If there is **more than one floor**, a menu will show to chosse which floor you want to teleport to,
 and if only one floor, you'll be teleported directly to appartment.
