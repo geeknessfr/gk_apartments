@@ -1,17 +1,17 @@
-# Teleport to Appartments
+# Teleport to Apartments
 
-A quick project for FiveM to teleport to appartments floor.
+A quick project for FiveM to teleport to apartments floor.
 
 This script draw a marker on the floor outside of the building and then inside building for each floor.
 
-**There is only 3 appartments in this script for only 1 building for exemple**
-You have to setup other appartments.
+**There is only 3 apartments in this script for only 1 building for exemple**
+You have to setup other apartments.
 
 ### INSTALLATION
 
 * Copy gk_appartements in your ressources folder.
 * Add gk_appartements to your autostart ressources in citmp-server.yml file.
-* You can edit appartements.lua file to add many positions to appartments following this format :
+* You can edit appartements.lua file to add many positions to apartments following this format :
 
 
 ```LUA
