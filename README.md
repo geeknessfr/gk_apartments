@@ -42,3 +42,6 @@ appartements = {
 If there is **more than one floor**, a menu will show to chosse which floor you want to teleport to,
 and if only one floor, you'll be teleported directly to appartment.
 
+![Outside1](http://i.imgur.com/CTnD9ZH.jpg)
+![Outside2](http://i.imgur.com/lAzczA2.jpg)
+![Inside](http://i.imgur.com/nWnV4gT.jpg)
